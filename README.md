@@ -8,7 +8,7 @@ This program rely on:
 
 * Adafruit TouchScreen library [https://github.com/adafruit/Touch-Screen-Library](https://github.com/adafruit/Touch-Screen-Library)
 
-* Aafruit TFT library [https://github.com/adafruit/TFTLCD-Library](https://github.com/adafruit/TFTLCD-Library)
+* Adafruit TFT library [https://github.com/adafruit/TFTLCD-Library](https://github.com/adafruit/TFTLCD-Library)
 
 * Timer library by sadr0b0t [https://github.com/sadr0b0t/arduino-timer-api](https://github.com/sadr0b0t/arduino-timer-api)
 
